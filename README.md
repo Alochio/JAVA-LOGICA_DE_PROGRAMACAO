@@ -1,3 +1,3 @@
-# Logica-de-Programacao-em-Java
+# Lógica de programação em Java.
 
-Esses exercicios foram propostos pela Danki Code no curso de Lógica de Programação, na parte de Java.
+Repositório com resoluções de exercícios propostos pela Danki Code no curso de lógica de programação, no módulo JAVA.
